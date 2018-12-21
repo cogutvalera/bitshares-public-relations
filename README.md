@@ -1,4 +1,4 @@
-#BitShares Public Relations
+# BitShares Public Relations
 
 Cryptick Cryptick, [21.12.18 22:36]
 A couple of things I would like to see in a Public Relations /market plan is 
